@@ -77,5 +77,5 @@ Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWo
 
 ---
 
-### :fire: Mis estadisticas:
+### :fire: Mis estadísticas:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucadotnet7&show_icons=true&theme=neon)
