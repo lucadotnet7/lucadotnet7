@@ -46,9 +46,28 @@ Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWo
 
 ---
 
+### :hammer_and_wrench: Bases de datos
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer"  alt="SQLServer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+</div>
+---
+
+### :hammer_and_wrench: Cloud
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
 ### :hammer_and_wrench: Editores de código
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -66,6 +85,7 @@ Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWo
 ### :hammer_and_wrench: Herramientas Agile
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
