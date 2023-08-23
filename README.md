@@ -17,7 +17,7 @@
 
 ---
 
-##3 👨‍💻 Sobre mí: 
+### 👨‍💻 Sobre mí: 
 Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"/> Argentino.
 - 🧓 Tengo 23 años y programo desde los 19 años.
 - 📖 Trabajo como desarrollador de software fullstack en mi empresa actual. Realizo tareas de backend, frontend web y, en ciertos casos, mobile.
@@ -26,7 +26,7 @@ Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWo
 
 ---
 
-### :hammer_and_wrench: Lenguajes y Herramientas :
+### :hammer_and_wrench: Lenguajes y frameworks
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
@@ -39,14 +39,43 @@ Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWo
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI"  alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :hammer_and_wrench: Editores de código
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android Studio" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :hammer_and_wrench: Herramientas de versionado
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket"  alt="BitBucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab"  alt="GitLab" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :hammer_and_wrench: Herramientas Agile
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI"  alt="Material UI" width="40" height="40"/>&nbsp;
+</div>  
+
+---
+
+### :hammer_and_wrench: Contenedores
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: Mis estadisticas:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucadotnet7&show_icons=true&theme=neon)
