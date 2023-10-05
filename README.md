@@ -21,7 +21,7 @@
 Soy un desarrollador FullStack <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"/> Argentino.
 - 🧓 Tengo 23 años y programo desde los 19 años.
 - 📖 Trabajo como desarrollador de software fullstack en mi empresa actual. Realizo tareas de backend, frontend web y, en ciertos casos, mobile.
-- ⚡Fuera del trabajo estudio Ingeniería en Informática en la Universidad de Buenos Aires (UBA) e inglés en un Instituto Británico aquí en mi ciudad.
+- ⚡Fuera del trabajo estudio inglés en un Instituto Británico aquí en mi ciudad.
 - 📧 Pueden encontrarme en [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucadanielcanas/) y/o enviarme un correo a lucadanielcanas7@gmail.com
 
 ---
