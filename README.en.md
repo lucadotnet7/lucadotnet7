@@ -94,5 +94,5 @@ I'm an Argetinian FullStack Developer. <img src="https://media.giphy.com/media/b
 
 ---
 
-### :fire: My Status:
+### :fire: My Statuses:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucadotnet7&show_icons=true&theme=neon)
