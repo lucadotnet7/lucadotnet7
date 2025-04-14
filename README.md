@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About me: 
 I'm an Argetinian FullStack Developer. <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"/>
-- 🧓 I'm 23 years old and I have been programming since I was 19 years old.
-- 📖 I work like a FullStack Software Developer in my actual company. I work in Backend, Frontend web and mobile tasks.
-- ⚡I learning english in an institute here in my city (Instituto Británico de Cultura Inglesa).
+- 🧓 I'm 24 years old and I have been programming since I was 19 years old.
+- 📖 I work like a FullStack Software Developer in my actual company. I work in Backend and Frontend web applications.
+- ⚡I'm learning english in an institute here in my city (Instituto Británico de Cultura Inglesa).
 - 📧 Can you find me in [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucadanielcanas/) or send me an email to this email address: lucadanielcanas7@gmail.com
 
 ---
